@@ -3,6 +3,8 @@
 ## Overview
 This is a responsive Tic Tac Toe game developed using HTML, CSS, and JavaScript. The game allows two players to play against each other on the same device.
 
+![TicTacToe](https://github.com/user-attachments/assets/00e5236b-a095-4bc6-9260-1f467a89e934)
+
 ## Features
 - **Responsive Design:** The game layout adjusts to different screen sizes and devices.
 - **Interactive Gameplay:** Click to place X's and O's and try to get three in a row to win.
