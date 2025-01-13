@@ -13,11 +13,11 @@ This is a responsive Tic Tac Toe game developed using HTML, CSS, and JavaScript.
 ## Installation
 1. Clone the repository to your local machine using:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/ritesh-kr-karn/tic-tac-toe.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd your-repo-name
+    cd tic-tac-toe
     ```
 3. Open the `index.html` file in your preferred web browser to start playing.
 
